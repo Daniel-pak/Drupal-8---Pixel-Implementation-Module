@@ -3,7 +3,7 @@
 ![](http://fc07.deviantart.net/fs70/f/2013/027/7/4/the_dinosaur_that_nommed____by_kelenkenwithfangs-d5syc2v.gif)
 
 ### Uses
-- For including Pixels on a Drupal 8 instance in either the <head></head> or <body></body> tags
+- For including Pixels on a Drupal 8 instance in either the head or body tags
 
 ### Before Installing Your Module On A Drupal 8 Instance
 1. Clone the git repository
