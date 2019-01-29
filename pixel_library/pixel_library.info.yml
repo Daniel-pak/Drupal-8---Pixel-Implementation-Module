@@ -1,0 +1,6 @@
+name: Pixel Libraries Loader
+description: A module to install pixel libraries on D8.
+package: 'Custom'
+type: module
+core: 8.x
+version: 1.x

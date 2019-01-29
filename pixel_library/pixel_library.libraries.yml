@@ -1,0 +1,10 @@
+library_one:
+  version: 1.x
+  js:
+    js/pixel_body.js: {}
+
+library_two:
+  version: 1.x
+  header: true
+  js:
+    js/pixel_header.js: {}

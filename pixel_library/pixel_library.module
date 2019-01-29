@@ -1,0 +1,11 @@
+<?php
+
+/**
+ * Implements hook_page_attachments().
+ * @param array $attachments
+ */
+
+function pixel_library_page_attachments(array &$attachments) {
+    $attachments['#attached']['library'][] = 'pixel_library/library_one';
+    $attachments['#attached']['library'][] = 'pixel_library/library_two';
+}
