@@ -14,5 +14,5 @@
 6. Install the module
 7. You should be able to inspect the pages and see the pixel in the body or head!
 
-####### Coming soon
+###### Coming soon
 ⋅⋅* Composer command for installation
